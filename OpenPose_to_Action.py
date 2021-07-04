@@ -48,7 +48,7 @@
 # Camera Height (meters); CamHgt
 # Camera Angle from Front View (+/- deg); CamAng
     #Limit CamAng to +/- 90 degrees
-# Camera Lens F-Stop; CamFStp
+# Camera Lens Focal Length (mm); CamFocalLength
 # Print "In Camera View Check That Target Character Matches Video Character"
 # CREATE ACTION button
 # Progress Bar
@@ -80,7 +80,7 @@ Check this section
 # Store ScreenSpace root bone position; SsXPos
 # Store ScreenSpace root bone position; SsYPos
 
-# Change camera F-Stop, height, orientation and location to user inputs
+# Change camera focal-length, height, orientation and location to user inputs
 
 # Start LOOPS =====================================
 
